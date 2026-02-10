@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Kh Muqaddasi 👋
 
-<!--
-**khmuqaddasi/khmuqaddasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Shopify App & Theme Developer | Full Stack Web Developer  
+💻 Node.js, Express, NestJS | React | Prisma | MongoDB | MySQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a full-stack web developer focused on building scalable Shopify apps,
+custom themes, and secure backend systems.
+
+I enjoy working on:
+- Shopify Apps & Storefront integrations
+- Backend APIs & system design
+- Web application security
+- Clean, maintainable code
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React, Remix
+- Shopify Polaris
+- HTML, CSS, JavaScript
+
+**Backend**
+- Node.js, Express.js, NestJS
+- REST APIs, Webhooks
+- Authentication & Authorization
+
+**Database**
+- Prisma ORM
+- MongoDB
+- MySQL
+
+**Tools**
+- Git & GitHub
+- Docker (learning)
+- Linux
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/khmuqaddasi
+- LinkedIn: https://www.linkedin.com/in/kh-muqaddasi-691469187/
+
+---
+
+⭐️ Feel free to explore my repositories and drop a star!
