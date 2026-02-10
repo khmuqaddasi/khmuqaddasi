@@ -23,11 +23,11 @@ I enjoy working on:
 **Frontend**
 - React, Remix
 - Shopify Polaris
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, AlpineJS, Tailwindcss
 
 **Backend**
-- Node.js, Express.js, NestJS
-- REST APIs, Webhooks
+- Node.js, Express.js, NestJS, Strapi CMS
+- REST APIs, Graphql APIs, Webhooks
 - Authentication & Authorization
 
 **Database**
@@ -39,6 +39,13 @@ I enjoy working on:
 - Git & GitHub
 - Docker (learning)
 - Linux
+  
+**Skills**
+  - REST APIs Implementation
+  - GraphQL APIs Implementation
+  - oAuth 2.0 Authentication Implementation
+  - JWT authentication and Authorization Implementation
+  - MVC and MVVM Architecture Implementation 
 
 ---
 
