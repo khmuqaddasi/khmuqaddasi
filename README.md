@@ -40,7 +40,7 @@ I enjoy working on:
 - Docker (learning)
 - Linux
   
-**Skills**
+**Top Skills**
   - REST APIs Implementation
   - GraphQL APIs Implementation
   - oAuth 2.0 Authentication Implementation
