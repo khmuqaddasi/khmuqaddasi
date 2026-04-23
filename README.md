@@ -19,9 +19,6 @@ I enjoy working on:
 ---
 
 ## 🛠 Tech Stack
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" />
-  </a>
 
 **Frontend**
 - React, Remix
@@ -34,7 +31,9 @@ I enjoy working on:
 - Authentication & Authorization
 
 **Database**
-- #2D3748 Prisma ORM
+- <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma" />
+  </a> Prisma ORM
 - MongoDB
 - MySQL
 
