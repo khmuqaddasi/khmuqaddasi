@@ -19,6 +19,9 @@ I enjoy working on:
 ---
 
 ## 🛠 Tech Stack
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  </a>
 
 **Frontend**
 - React, Remix
