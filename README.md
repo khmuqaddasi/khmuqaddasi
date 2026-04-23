@@ -1,59 +1,41 @@
-# Hi, I'm Kh Muqaddasi 👋
+👋 Hi, I'm Kh Muqaddasi
+🚀 Shopify App & Theme Developer | Full Stack Web Developer
+💡 Building scalable Shopify solutions & robust backend systems
+🎯 Focus on clean architecture, security, and performance
 
-🚀 Shopify App & Theme Developer | Full Stack Web Developer  
-💻 Node.js, Express, NestJS | React | Prisma | MongoDB | MySQL
+👨‍💻 About Me
+I'm a full-stack web developer passionate about crafting high-quality Shopify apps, custom themes, and secure backend architectures.
 
----
+🔥 What I love working on:
+🛍️ Shopify Apps & Storefront integrations
 
-## 👨‍💻 About Me
+⚙️ Backend APIs & system design
 
-I'm a full-stack web developer focused on building scalable Shopify apps,
-custom themes, and secure backend systems.
+🔐 Web application security
 
-I enjoy working on:
-- Shopify Apps & Storefront integrations
-- Backend APIs & system design
-- Web application security
-- Clean, maintainable code
+🧼 Clean, maintainable, scalable code
 
----
+🛠️ Tech Stack
+Frontend
+⚛️ React | 🔷 Remix | 🎨 Shopify Polaris | 🌐 HTML, CSS, JS | 🌀 AlpineJS | 💨 TailwindCSS
 
-## 🛠 Tech Stack
+Backend
+🟢 Node.js | 🚂 Express.js | 🧩 NestJS | 📦 Strapi CMS | 🔌 REST APIs | 🧠 GraphQL APIs | 📡 Webhooks | 🔒 Auth (OAuth 2.0, JWT)
 
-**Frontend**
-- React, Remix
-- Shopify Polaris
-- HTML, CSS, JavaScript, AlpineJS, Tailwindcss
+Database
+🗄️ Prisma ORM | 🍃 MongoDB | 🐬 MySQL
 
-**Backend**
-- Node.js, Express.js, NestJS, Strapi CMS
-- REST APIs, Graphql APIs, Webhooks
-- Authentication & Authorization
+Tools & DevOps
+🐙 Git & GitHub | 🐳 Docker (learning) | 🐧 Linux
 
-**Database**
-- Prisma ORM
-- MongoDB
-- MySQL
+Architecture Patterns
+🏗️ MVC | 🖼️ MVVM
 
-**Tools**
-- Git & GitHub
-- Docker (learning)
-- Linux
-  
-**Top Skills**
-  - REST APIs Implementation
-  - GraphQL APIs Implementation
-  - oAuth 2.0 Authentication Implementation
-  - JWT authentication and Authorization Implementation
-  - MVC and MVVM Architecture Implementation 
+🌍 Languages
+🇬🇧 English (Fluent)
+🇵🇰 Urdu (Native)
+🇸🇦 Arabic (Intermediate)
 
----
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/khmuqaddasi
-- LinkedIn: https://www.linkedin.com/in/kh-muqaddasi-691469187/
-
----
-
-⭐️ Feel free to explore my repositories and drop a star!
+📫 Let's Connect
+🐙 GitHub: github.com/khmuqaddasi
+🔗 LinkedIn: linkedin.com/in/kh-muqaddasi-691469187
