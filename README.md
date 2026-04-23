@@ -31,9 +31,7 @@ I enjoy working on:
 - Authentication & Authorization
 
 **Database**
-- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma" />
-  </a> Prisma ORM
+- Prisma ORM
 - MongoDB
 - MySQL
 
