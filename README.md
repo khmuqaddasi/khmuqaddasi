@@ -31,7 +31,7 @@ I enjoy working on:
 - Authentication & Authorization
 
 **Database**
-- Prisma ORM
+- #2D3748 Prisma ORM
 - MongoDB
 - MySQL
 
